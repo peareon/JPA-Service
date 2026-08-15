@@ -1,0 +1,14 @@
+com\ebac\modulo40\controller\UsuarioController.class
+com\ebac\modulo40\dto\Usuario.class
+com\ebac\modulo40\repository\AdminRepository.class
+com\ebac\modulo40\service\TelefonoService.class
+com\ebac\modulo40\service\UsuarioService.class
+com\ebac\modulo40\controller\TelefonoController.class
+com\ebac\modulo40\repository\TelefonoRepository.class
+com\ebac\modulo40\dto\Telefono.class
+com\ebac\modulo40\dto\Admin.class
+com\ebac\modulo40\controller\ResponseWrapper.class
+com\ebac\modulo40\service\LoginService.class
+com\ebac\modulo40\repository\UsuarioRepository.class
+com\ebac\modulo40\controller\AdminController.class
+com\ebac\modulo40\DemoApplication.class
