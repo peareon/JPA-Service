@@ -1,0 +1,22 @@
+12-08-2026 09:15:03,369-06:00 [main] INFO  com.ebac.modulo40.DemoApplication - Starting DemoApplication using Java 17.0.20 with PID 3552 (C:\Users\Administrador\Pictures\IdeaProjects\Spring Boot\target\classes started by Administrador in C:\Users\Administrador\Pictures\IdeaProjects\Spring Boot)
+12-08-2026 09:15:03,379-06:00 [main] INFO  com.ebac.modulo40.DemoApplication - The following 1 profile is active: "dev"
+12-08-2026 09:15:07,822-06:00 [main] INFO  com.ebac.modulo40.DemoApplication - Started DemoApplication in 4.999 seconds (process running for 15.652)
+12-08-2026 09:15:43,929-06:00 [http-nio-8080-exec-1] INFO  c.e.m.controller.UsuarioController - Se ejecutó el proceso de regresar todos los usuarios
+12-08-2026 09:15:50,956-06:00 [http-nio-8080-exec-3] ERROR c.e.m.controller.UsuarioController - El usuario con id: 2 no fue encontrado
+12-08-2026 09:16:09,892-06:00 [http-nio-8080-exec-6] INFO  c.e.m.controller.UsuarioController - Se ejecutó el proceso de regresar todos los usuarios
+12-08-2026 09:16:20,090-06:00 [http-nio-8080-exec-7] ERROR c.e.m.controller.UsuarioController - El usuario 3 no fue actualizado
+12-08-2026 09:17:25,644-06:00 [http-nio-8080-exec-9] ERROR c.e.m.controller.UsuarioController - El usuario con id: 2 no fue encontrado
+12-08-2026 09:19:10,070-06:00 [http-nio-8080-exec-1] ERROR c.e.m.controller.UsuarioController - El usuario con id: 2 no fue encontrado
+12-08-2026 09:20:34,499-06:00 [http-nio-8080-exec-3] ERROR c.e.m.controller.UsuarioController - El usuario con id: 2 no fue encontrado
+12-08-2026 09:21:39,575-06:00 [http-nio-8080-exec-6] ERROR c.e.m.controller.UsuarioController - El usuario 3 no fue actualizado
+12-08-2026 09:21:39,654-06:00 [http-nio-8080-exec-5] INFO  c.e.m.controller.UsuarioController - El usuario fue creado con id: 4 fue creado
+12-08-2026 09:21:39,667-06:00 [http-nio-8080-exec-7] INFO  c.e.m.controller.UsuarioController - Proceso de eliminación ejecutado
+12-08-2026 09:21:39,675-06:00 [http-nio-8080-exec-8] ERROR c.e.m.controller.UsuarioController - El usuario con id: 2 no fue encontrado
+12-08-2026 09:21:39,729-06:00 [http-nio-8080-exec-9] INFO  c.e.m.controller.UsuarioController - Se ejecutó el proceso de regresar todos los usuarios
+12-08-2026 09:22:03,407-06:00 [http-nio-8080-exec-1] ERROR c.e.m.controller.UsuarioController - El usuario con id: 2 no fue encontrado
+12-08-2026 09:22:53,169-06:00 [http-nio-8080-exec-3] INFO  c.e.m.controller.UsuarioController - El usuario fue creado con id: 5 fue creado
+12-08-2026 09:24:14,577-06:00 [http-nio-8080-exec-6] ERROR c.e.m.controller.UsuarioController - El usuario con id: 2 no fue encontrado
+12-08-2026 09:25:13,863-06:00 [http-nio-8080-exec-7] ERROR c.e.m.controller.UsuarioController - El usuario con id: 2 no fue encontrado
+12-08-2026 09:29:47,305-06:00 [http-nio-8080-exec-9] INFO  c.e.m.controller.UsuarioController - El usuario fue creado con id: 6 fue creado
+12-08-2026 09:30:21,713-06:00 [http-nio-8080-exec-1] INFO  c.e.m.controller.UsuarioController - El usuario fue creado con id: 7 fue creado
+12-08-2026 09:30:44,147-06:00 [http-nio-8080-exec-3] INFO  c.e.m.controller.UsuarioController - Se ejecutó el proceso de regresar todos los usuarios

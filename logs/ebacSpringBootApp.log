@@ -1,0 +1,326 @@
+15-08-2026 00:00:19,628-06:00 [http-nio-8080-exec-7] INFO  c.e.m.controller.UsuarioController - Se ejecutÃ³ el proceso de regresar todos los usuarios
+15-08-2026 00:00:21,615-06:00 [http-nio-8080-exec-8] ERROR c.e.m.controller.UsuarioController - El usuario con id: 2 no fue encontrado
+15-08-2026 00:00:26,400-06:00 [http-nio-8080-exec-9] ERROR c.e.m.controller.UsuarioController - El usuario con id: 5 no fue encontrado
+15-08-2026 00:05:54,796-06:00 [http-nio-8080-exec-1] INFO  c.e.m.controller.UsuarioController - Se ejecutÃ³ el proceso de regresar todos los usuarios
+15-08-2026 00:05:59,774-06:00 [http-nio-8080-exec-2] ERROR c.e.m.controller.UsuarioController - El usuario con id: 4 no fue encontrado
+15-08-2026 00:06:04,620-06:00 [http-nio-8080-exec-5] ERROR c.e.m.controller.UsuarioController - El usuario con id: 4 no fue encontrado
+15-08-2026 00:06:27,940-06:00 [http-nio-8080-exec-4] ERROR c.e.m.controller.UsuarioController - El usuario con id: 5 no fue encontrado
+15-08-2026 00:08:54,104-06:00 [http-nio-8080-exec-3] INFO  c.e.m.controller.UsuarioController - Se ejecutÃ³ el proceso de regresar todos los usuarios
+15-08-2026 00:08:55,843-06:00 [http-nio-8080-exec-7] ERROR c.e.m.controller.UsuarioController - El usuario con id: 2 no fue encontrado
+15-08-2026 00:09:00,753-06:00 [http-nio-8080-exec-8] ERROR c.e.m.controller.UsuarioController - El usuario con id: 3 no fue encontrado
+15-08-2026 00:10:56,639-06:00 [http-nio-8080-exec-10] INFO  c.e.m.controller.UsuarioController - Se ejecutÃ³ el proceso de regresar todos los usuarios
+15-08-2026 00:29:23,627-06:00 [http-nio-8080-exec-2] INFO  c.e.m.controller.UsuarioController - Se ejecutÃ³ el proceso de regresar todos los usuarios
+15-08-2026 00:29:26,111-06:00 [http-nio-8080-exec-5] ERROR c.e.m.controller.UsuarioController - El usuario con id: 4 no fue encontrado
+15-08-2026 00:29:29,864-06:00 [http-nio-8080-exec-4] INFO  c.e.m.controller.UsuarioController - Se ejecutÃ³ el proceso de regresar todos los usuarios
+15-08-2026 00:29:32,957-06:00 [http-nio-8080-exec-6] ERROR c.e.m.controller.UsuarioController - El usuario con id: 4 no fue encontrado
+15-08-2026 00:34:57,873-06:00 [http-nio-8080-exec-7] INFO  c.e.m.controller.UsuarioController - Se ejecutÃ³ el proceso de regresar todos los usuarios
+15-08-2026 00:35:00,775-06:00 [http-nio-8080-exec-8] ERROR c.e.m.controller.UsuarioController - El usuario con id: 4 no fue encontrado
+15-08-2026 00:35:11,161-06:00 [http-nio-8080-exec-9] INFO  c.e.m.controller.UsuarioController - El usuario fue creado con id: 4 fue creado
+15-08-2026 00:35:17,170-06:00 [http-nio-8080-exec-10] INFO  c.e.m.controller.UsuarioController - Se ejecutÃ³ el proceso de regresar todos los usuarios
+15-08-2026 00:35:20,519-06:00 [http-nio-8080-exec-1] ERROR c.e.m.controller.UsuarioController - El usuario con id: 4 no fue encontrado
+15-08-2026 00:35:31,937-06:00 [http-nio-8080-exec-2] ERROR c.e.m.controller.UsuarioController - El usuario con id: 5 no fue encontrado
+15-08-2026 00:35:44,126-06:00 [http-nio-8080-exec-5] INFO  c.e.m.controller.UsuarioController - El usuario fue creado con id: 5 fue creado
+15-08-2026 00:35:45,860-06:00 [http-nio-8080-exec-4] INFO  c.e.m.controller.UsuarioController - Se ejecutÃ³ el proceso de regresar todos los usuarios
+15-08-2026 00:35:53,809-06:00 [http-nio-8080-exec-6] ERROR c.e.m.controller.UsuarioController - El usuario con id: 5 no fue encontrado
+15-08-2026 00:52:43,205-06:00 [http-nio-8080-exec-7] INFO  c.e.m.controller.UsuarioController - Se ejecutÃ³ el proceso de regresar todos los usuarios
+15-08-2026 00:52:46,453-06:00 [http-nio-8080-exec-8] ERROR c.e.m.controller.UsuarioController - El usuario con id: 5 no fue encontrado
+15-08-2026 00:52:52,817-06:00 [http-nio-8080-exec-9] INFO  c.e.m.controller.UsuarioController - El usuario 5 fue actualizado
+15-08-2026 00:52:54,968-06:00 [http-nio-8080-exec-10] INFO  c.e.m.controller.UsuarioController - Se ejecutÃ³ el proceso de regresar todos los usuarios
+15-08-2026 00:52:58,015-06:00 [http-nio-8080-exec-1] ERROR c.e.m.controller.UsuarioController - El usuario con id: 5 no fue encontrado
+15-08-2026 00:53:01,183-06:00 [http-nio-8080-exec-2] ERROR c.e.m.controller.UsuarioController - El usuario con id: 5 no fue encontrado
+15-08-2026 00:53:07,839-06:00 [http-nio-8080-exec-5] INFO  c.e.m.controller.UsuarioController - El usuario 5 fue actualizado
+15-08-2026 00:53:09,976-06:00 [http-nio-8080-exec-4] INFO  c.e.m.controller.UsuarioController - Se ejecutÃ³ el proceso de regresar todos los usuarios
+15-08-2026 00:53:12,477-06:00 [http-nio-8080-exec-6] ERROR c.e.m.controller.UsuarioController - El usuario con id: 4 no fue encontrado
+15-08-2026 00:53:17,199-06:00 [http-nio-8080-exec-3] ERROR c.e.m.controller.UsuarioController - El usuario con id: 5 no fue encontrado
+15-08-2026 01:13:47,456-06:00 [main] INFO  com.ebac.modulo40.DemoApplication - Starting DemoApplication using Java 17.0.20 with PID 20668 (C:\Users\Administrador\Pictures\IdeaProjects\Spring Boot\target\classes started by Administrador in C:\Users\Administrador\Pictures\IdeaProjects\Spring Boot)
+15-08-2026 01:13:47,458-06:00 [main] INFO  com.ebac.modulo40.DemoApplication - The following 1 profile is active: "prod"
+15-08-2026 01:13:50,034-06:00 [main] INFO  com.ebac.modulo40.DemoApplication - Started DemoApplication in 2.902 seconds (process running for 4.259)
+15-08-2026 09:38:02,266-06:00 [http-nio-8080-exec-4] INFO  c.e.m.controller.UsuarioController - Se ejecutÃ³ el proceso de regresar todos los usuarios
+15-08-2026 09:38:36,133-06:00 [http-nio-8080-exec-1] INFO  c.e.m.controller.UsuarioController - Se ejecutÃ³ el proceso de regresar todos los usuarios
+15-08-2026 09:40:46,782-06:00 [main] INFO  com.ebac.modulo40.DemoApplication - Starting DemoApplication using Java 17.0.20 with PID 25552 (C:\Users\Administrador\Pictures\IdeaProjects\Spring Boot\target\classes started by Administrador in C:\Users\Administrador\Pictures\IdeaProjects\Spring Boot)
+15-08-2026 09:40:46,787-06:00 [main] INFO  com.ebac.modulo40.DemoApplication - The following 1 profile is active: "dev"
+15-08-2026 09:40:51,518-06:00 [main] INFO  com.ebac.modulo40.DemoApplication - Started DemoApplication in 5.292 seconds (process running for 6.158)
+15-08-2026 09:46:30,825-06:00 [http-nio-8080-exec-2] INFO  c.e.m.controller.UsuarioController - Se ejecutÃ³ el proceso de regresar todos los usuarios
+15-08-2026 09:51:49,393-06:00 [main] INFO  c.e.m.controller.TelefonoController - Proceso de eliminación ejecutado
+15-08-2026 09:51:49,593-06:00 [main] INFO  c.e.m.controller.TelefonoController - El teléfono 5 fue actualizado
+15-08-2026 09:51:49,649-06:00 [main] INFO  c.e.m.controller.TelefonoController - El telefono con id: 1 fue encontrado
+15-08-2026 09:51:49,681-06:00 [main] INFO  c.e.m.controller.TelefonoController - Telefono recibido: Telefono(idTelefono=1, tipoTelefono=Casa 1, lada=55, numero=55)
+15-08-2026 09:51:49,713-06:00 [main] INFO  c.e.m.controller.TelefonoController - El teléfono fue creado
+15-08-2026 09:51:49,740-06:00 [main] INFO  c.e.m.controller.TelefonoController - Se ejecutó el proceso de regresar todos los teléfonos
+15-08-2026 09:51:49,779-06:00 [main] ERROR c.e.m.controller.TelefonoController - El telefono con id: 1 no fue encontrado
+15-08-2026 09:51:49,802-06:00 [main] INFO  c.e.m.controller.TelefonoController - Se ejecutó el proceso de regresar todos los teléfonos
+15-08-2026 09:51:50,031-06:00 [main] INFO  c.e.m.controller.UsuarioController - Se ejecutó el proceso de regresar todos los usuarios
+15-08-2026 09:51:50,058-06:00 [main] INFO  c.e.m.controller.UsuarioController - El usuario 5 fue actualizado
+15-08-2026 09:51:50,098-06:00 [main] INFO  c.e.m.controller.UsuarioController - Proceso de eliminación ejecutado
+15-08-2026 09:51:50,127-06:00 [main] ERROR c.e.m.controller.UsuarioController - El usuario con id: 1 no fue encontrado
+15-08-2026 09:51:50,146-06:00 [main] INFO  c.e.m.controller.UsuarioController - Se ejecutó el proceso de regresar todos los usuarios
+15-08-2026 09:51:50,164-06:00 [main] INFO  c.e.m.controller.UsuarioController - El usuario con id: 1 fue encontrado
+15-08-2026 09:51:50,201-06:00 [main] INFO  c.e.m.controller.UsuarioController - El usuario fue creado con id: 1 fue creado
+15-08-2026 09:51:53,722-06:00 [main] INFO  c.ebac.modulo40.DemoApplicationTests - Starting DemoApplicationTests using Java 17.0.20 with PID 16860 (started by Administrador in C:\Users\Administrador\Pictures\IdeaProjects\Spring Boot)
+15-08-2026 09:51:53,731-06:00 [main] INFO  c.ebac.modulo40.DemoApplicationTests - No active profile set, falling back to 1 default profile: "default"
+15-08-2026 09:52:06,846-06:00 [main] INFO  c.ebac.modulo40.DemoApplicationTests - Started DemoApplicationTests in 14.139 seconds (process running for 23.398)
+15-08-2026 10:47:47,560-06:00 [main] INFO  c.e.m.controller.TelefonoController - Proceso de eliminación ejecutado
+15-08-2026 10:47:47,732-06:00 [main] INFO  c.e.m.controller.TelefonoController - El teléfono 5 fue actualizado
+15-08-2026 10:47:47,760-06:00 [main] INFO  c.e.m.controller.TelefonoController - El telefono con id: 1 fue encontrado
+15-08-2026 10:47:47,779-06:00 [main] INFO  c.e.m.controller.TelefonoController - Telefono recibido: Telefono(idTelefono=1, tipoTelefono=Casa 1, lada=55, numero=55)
+15-08-2026 10:47:47,800-06:00 [main] INFO  c.e.m.controller.TelefonoController - El teléfono fue creado
+15-08-2026 10:47:47,816-06:00 [main] INFO  c.e.m.controller.TelefonoController - Se ejecutó el proceso de regresar todos los teléfonos
+15-08-2026 10:47:47,834-06:00 [main] ERROR c.e.m.controller.TelefonoController - El telefono con id: 1 no fue encontrado
+15-08-2026 10:47:47,848-06:00 [main] INFO  c.e.m.controller.TelefonoController - Se ejecutó el proceso de regresar todos los teléfonos
+15-08-2026 10:47:47,948-06:00 [main] INFO  c.e.m.controller.UsuarioController - Se ejecutó el proceso de regresar todos los usuarios
+15-08-2026 10:47:47,959-06:00 [main] INFO  c.e.m.controller.UsuarioController - El usuario 5 fue actualizado
+15-08-2026 10:47:47,971-06:00 [main] INFO  c.e.m.controller.UsuarioController - Proceso de eliminación ejecutado
+15-08-2026 10:47:47,991-06:00 [main] ERROR c.e.m.controller.UsuarioController - El usuario con id: 1 no fue encontrado
+15-08-2026 10:47:47,999-06:00 [main] INFO  c.e.m.controller.UsuarioController - Se ejecutó el proceso de regresar todos los usuarios
+15-08-2026 10:47:48,006-06:00 [main] INFO  c.e.m.controller.UsuarioController - El usuario con id: 1 fue encontrado
+15-08-2026 10:47:48,021-06:00 [main] INFO  c.e.m.controller.UsuarioController - El usuario fue creado con id: 1 fue creado
+15-08-2026 10:47:49,325-06:00 [main] INFO  c.ebac.modulo40.DemoApplicationTests - Starting DemoApplicationTests using Java 17.0.20 with PID 15344 (started by Administrador in C:\Users\Administrador\Pictures\IdeaProjects\Spring Boot)
+15-08-2026 10:47:49,328-06:00 [main] INFO  c.ebac.modulo40.DemoApplicationTests - No active profile set, falling back to 1 default profile: "default"
+15-08-2026 10:47:56,094-06:00 [main] INFO  c.ebac.modulo40.DemoApplicationTests - Started DemoApplicationTests in 7.227 seconds (process running for 12.223)
+15-08-2026 10:48:32,775-06:00 [main] INFO  c.e.m.controller.TelefonoController - Proceso de eliminación ejecutado
+15-08-2026 10:48:32,979-06:00 [main] INFO  c.e.m.controller.TelefonoController - El teléfono 5 fue actualizado
+15-08-2026 10:48:33,020-06:00 [main] INFO  c.e.m.controller.TelefonoController - El telefono con id: 1 fue encontrado
+15-08-2026 10:48:33,054-06:00 [main] INFO  c.e.m.controller.TelefonoController - Telefono recibido: Telefono(idTelefono=1, tipoTelefono=Casa 1, lada=55, numero=55)
+15-08-2026 10:48:33,084-06:00 [main] INFO  c.e.m.controller.TelefonoController - El teléfono fue creado
+15-08-2026 10:48:33,112-06:00 [main] INFO  c.e.m.controller.TelefonoController - Se ejecutó el proceso de regresar todos los teléfonos
+15-08-2026 10:48:33,139-06:00 [main] ERROR c.e.m.controller.TelefonoController - El telefono con id: 1 no fue encontrado
+15-08-2026 10:48:33,165-06:00 [main] INFO  c.e.m.controller.TelefonoController - Se ejecutó el proceso de regresar todos los teléfonos
+15-08-2026 10:48:33,360-06:00 [main] INFO  c.e.m.controller.UsuarioController - Se ejecutó el proceso de regresar todos los usuarios
+15-08-2026 10:48:33,390-06:00 [main] INFO  c.e.m.controller.UsuarioController - El usuario 5 fue actualizado
+15-08-2026 10:48:33,416-06:00 [main] INFO  c.e.m.controller.UsuarioController - Proceso de eliminación ejecutado
+15-08-2026 10:48:33,447-06:00 [main] ERROR c.e.m.controller.UsuarioController - El usuario con id: 1 no fue encontrado
+15-08-2026 10:48:33,461-06:00 [main] INFO  c.e.m.controller.UsuarioController - Se ejecutó el proceso de regresar todos los usuarios
+15-08-2026 10:48:33,477-06:00 [main] INFO  c.e.m.controller.UsuarioController - El usuario con id: 1 fue encontrado
+15-08-2026 10:48:33,507-06:00 [main] INFO  c.e.m.controller.UsuarioController - El usuario fue creado con id: 1 fue creado
+15-08-2026 10:48:36,625-06:00 [main] INFO  c.ebac.modulo40.DemoApplicationTests - Starting DemoApplicationTests using Java 17.0.20 with PID 12348 (started by Administrador in C:\Users\Administrador\Pictures\IdeaProjects\Spring Boot)
+15-08-2026 10:48:36,631-06:00 [main] INFO  c.ebac.modulo40.DemoApplicationTests - No active profile set, falling back to 1 default profile: "default"
+15-08-2026 10:48:49,781-06:00 [main] INFO  c.ebac.modulo40.DemoApplicationTests - Started DemoApplicationTests in 14.149 seconds (process running for 22.26)
+15-08-2026 11:28:12,534-06:00 [main] INFO  com.ebac.modulo40.DemoApplication - Starting DemoApplication using Java 17.0.20 with PID 22676 (C:\Users\Administrador\Pictures\IdeaProjects\Spring Boot\target\classes started by Administrador in C:\Users\Administrador\Pictures\IdeaProjects\Spring Boot)
+15-08-2026 11:28:12,538-06:00 [main] INFO  com.ebac.modulo40.DemoApplication - The following 1 profile is active: "dev"
+15-08-2026 11:28:15,527-06:00 [main] INFO  com.ebac.modulo40.DemoApplication - Started DemoApplication in 3.383 seconds (process running for 4.034)
+15-08-2026 11:28:27,923-06:00 [http-nio-8080-exec-1] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: org.springframework.dao.InvalidDataAccessResourceUsageException: Could not prepare statement [Columna "A1_0.ID_ADMIN" no encontrada
+Column "A1_0.ID_ADMIN" not found; SQL statement:
+select a1_0.id_admin,a1_0.password,a1_0.username from admin a1_0 where a1_0.username=? [42122-240]] [select a1_0.id_admin,a1_0.password,a1_0.username from admin a1_0 where a1_0.username=?]; SQL [select a1_0.id_admin,a1_0.password,a1_0.username from admin a1_0 where a1_0.username=?]] with root cause
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Columna "A1_0.ID_ADMIN" no encontrada
+Column "A1_0.ID_ADMIN" not found; SQL statement:
+select a1_0.id_admin,a1_0.password,a1_0.username from admin a1_0 where a1_0.username=? [42122-240]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:514)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.expression.ExpressionColumn.getColumnException(ExpressionColumn.java:244)
+	at org.h2.expression.ExpressionColumn.optimizeOther(ExpressionColumn.java:226)
+	at org.h2.expression.ExpressionColumn.optimize(ExpressionColumn.java:213)
+	at org.h2.command.query.Select.lambda$prepareExpressions$2(Select.java:1209)
+	at java.base/java.util.ArrayList.replaceAllRange(ArrayList.java:1712)
+	at java.base/java.util.ArrayList.replaceAll(ArrayList.java:1702)
+	at org.h2.command.query.Select.prepareExpressions(Select.java:1209)
+	at org.h2.command.query.Query.prepare(Query.java:235)
+	at org.h2.command.Parser.prepareCommand(Parser.java:492)
+	at org.h2.engine.SessionLocal.prepareLocal(SessionLocal.java:647)
+	at org.h2.engine.SessionLocal.prepareCommand(SessionLocal.java:563)
+	at org.h2.jdbc.JdbcConnection.prepareCommand(JdbcConnection.java:1160)
+	at org.h2.jdbc.JdbcPreparedStatement.<init>(JdbcPreparedStatement.java:93)
+	at org.h2.jdbc.JdbcConnection.prepareStatement(JdbcConnection.java:686)
+	at com.zaxxer.hikari.pool.ProxyConnection.prepareStatement(ProxyConnection.java:342)
+	at com.zaxxer.hikari.pool.HikariProxyConnection.prepareStatement(HikariProxyConnection.java)
+	at org.hibernate.engine.jdbc.internal.StatementPreparerImpl$4.doPrepare(StatementPreparerImpl.java:155)
+	at org.hibernate.engine.jdbc.internal.StatementPreparerImpl$StatementPreparationTemplate.prepareStatement(StatementPreparerImpl.java:183)
+	at org.hibernate.engine.jdbc.internal.StatementPreparerImpl.prepareQueryStatement(StatementPreparerImpl.java:157)
+	at org.hibernate.sql.exec.internal.StandardStatementCreator.createStatement(StandardStatementCreator.java:46)
+	at org.hibernate.sql.results.jdbc.internal.DeferredResultSetAccess.executeQuery(DeferredResultSetAccess.java:257)
+	at org.hibernate.sql.results.jdbc.internal.DeferredResultSetAccess.getResultSet(DeferredResultSetAccess.java:190)
+	at org.hibernate.sql.results.jdbc.internal.JdbcValuesResultSetImpl.<init>(JdbcValuesResultSetImpl.java:71)
+	at org.hibernate.sql.exec.internal.JdbcSelectExecutorStandardImpl.resolveJdbcValues(JdbcSelectExecutorStandardImpl.java:422)
+	at org.hibernate.sql.exec.internal.JdbcSelectExecutorStandardImpl.resolveJdbcValuesSource(JdbcSelectExecutorStandardImpl.java:349)
+	at org.hibernate.sql.exec.internal.JdbcSelectExecutorStandardImpl.doExecuteQuery(JdbcSelectExecutorStandardImpl.java:143)
+	at org.hibernate.sql.exec.internal.JdbcSelectExecutorStandardImpl.executeQuery(JdbcSelectExecutorStandardImpl.java:100)
+	at org.hibernate.sql.exec.spi.JdbcSelectExecutor.executeQuery(JdbcSelectExecutor.java:63)
+	at org.hibernate.sql.exec.spi.JdbcSelectExecutor.list(JdbcSelectExecutor.java:137)
+	at org.hibernate.query.sqm.internal.ConcreteSqmSelectQueryPlan.lambda$new$1(ConcreteSqmSelectQueryPlan.java:134)
+	at org.hibernate.query.sqm.internal.ConcreteSqmSelectQueryPlan.withCacheableSqmInterpretation(ConcreteSqmSelectQueryPlan.java:463)
+	at org.hibernate.query.sqm.internal.ConcreteSqmSelectQueryPlan.performList(ConcreteSqmSelectQueryPlan.java:391)
+	at org.hibernate.query.sqm.internal.SqmQueryImpl.doList(SqmQueryImpl.java:374)
+	at org.hibernate.query.spi.AbstractSelectionQuery.list(AbstractSelectionQuery.java:153)
+	at org.hibernate.query.spi.AbstractSelectionQuery.getSingleResultOrNull(AbstractSelectionQuery.java:330)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution$SingleEntityExecution.doExecute(JpaQueryExecution.java:337)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution.execute(JpaQueryExecution.java:100)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.doExecute(AbstractJpaQuery.java:166)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.execute(AbstractJpaQuery.java:156)
+	at org.springframework.data.repository.core.support.RepositoryMethodInvoker.doInvoke(RepositoryMethodInvoker.java:169)
+	at org.springframework.data.repository.core.support.RepositoryMethodInvoker.invoke(RepositoryMethodInvoker.java:158)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.doInvoke(QueryExecutorMethodInterceptor.java:167)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.invoke(QueryExecutorMethodInterceptor.java:146)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179)
+	at org.springframework.data.projection.DefaultMethodInvokingMethodInterceptor.invoke(DefaultMethodInvokingMethodInterceptor.java:69)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179)
+	at org.springframework.transaction.interceptor.TransactionInterceptor$1.proceedWithInvocation(TransactionInterceptor.java:133)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:371)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:130)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:135)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:137)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:222)
+	at jdk.proxy2/jdk.proxy2.$Proxy131.findByUsername(Unknown Source)
+	at com.ebac.modulo40.service.LoginService.validarCredenciales(LoginService.java:17)
+	at com.ebac.modulo40.controller.AdminController.login(AdminController.java:18)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:252)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:184)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:934)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:853)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:86)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:866)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1000)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:649)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:874)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:710)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:128)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:199)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:77)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:113)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:1272)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1801)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:946)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:480)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:57)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+15-08-2026 11:28:49,033-06:00 [http-nio-8080-exec-2] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: org.springframework.dao.InvalidDataAccessResourceUsageException: Could not prepare statement [Columna "A1_0.ID_ADMIN" no encontrada
+Column "A1_0.ID_ADMIN" not found; SQL statement:
+select a1_0.id_admin,a1_0.password,a1_0.username from admin a1_0 where a1_0.username=? [42122-240]] [select a1_0.id_admin,a1_0.password,a1_0.username from admin a1_0 where a1_0.username=?]; SQL [select a1_0.id_admin,a1_0.password,a1_0.username from admin a1_0 where a1_0.username=?]] with root cause
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Columna "A1_0.ID_ADMIN" no encontrada
+Column "A1_0.ID_ADMIN" not found; SQL statement:
+select a1_0.id_admin,a1_0.password,a1_0.username from admin a1_0 where a1_0.username=? [42122-240]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:514)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.expression.ExpressionColumn.getColumnException(ExpressionColumn.java:244)
+	at org.h2.expression.ExpressionColumn.optimizeOther(ExpressionColumn.java:226)
+	at org.h2.expression.ExpressionColumn.optimize(ExpressionColumn.java:213)
+	at org.h2.command.query.Select.lambda$prepareExpressions$2(Select.java:1209)
+	at java.base/java.util.ArrayList.replaceAllRange(ArrayList.java:1712)
+	at java.base/java.util.ArrayList.replaceAll(ArrayList.java:1702)
+	at org.h2.command.query.Select.prepareExpressions(Select.java:1209)
+	at org.h2.command.query.Query.prepare(Query.java:235)
+	at org.h2.command.Parser.prepareCommand(Parser.java:492)
+	at org.h2.engine.SessionLocal.prepareLocal(SessionLocal.java:647)
+	at org.h2.engine.SessionLocal.prepareCommand(SessionLocal.java:563)
+	at org.h2.jdbc.JdbcConnection.prepareCommand(JdbcConnection.java:1160)
+	at org.h2.jdbc.JdbcPreparedStatement.<init>(JdbcPreparedStatement.java:93)
+	at org.h2.jdbc.JdbcConnection.prepareStatement(JdbcConnection.java:686)
+	at com.zaxxer.hikari.pool.ProxyConnection.prepareStatement(ProxyConnection.java:342)
+	at com.zaxxer.hikari.pool.HikariProxyConnection.prepareStatement(HikariProxyConnection.java)
+	at org.hibernate.engine.jdbc.internal.StatementPreparerImpl$4.doPrepare(StatementPreparerImpl.java:155)
+	at org.hibernate.engine.jdbc.internal.StatementPreparerImpl$StatementPreparationTemplate.prepareStatement(StatementPreparerImpl.java:183)
+	at org.hibernate.engine.jdbc.internal.StatementPreparerImpl.prepareQueryStatement(StatementPreparerImpl.java:157)
+	at org.hibernate.sql.exec.internal.StandardStatementCreator.createStatement(StandardStatementCreator.java:46)
+	at org.hibernate.sql.results.jdbc.internal.DeferredResultSetAccess.executeQuery(DeferredResultSetAccess.java:257)
+	at org.hibernate.sql.results.jdbc.internal.DeferredResultSetAccess.getResultSet(DeferredResultSetAccess.java:190)
+	at org.hibernate.sql.results.jdbc.internal.JdbcValuesResultSetImpl.<init>(JdbcValuesResultSetImpl.java:71)
+	at org.hibernate.sql.exec.internal.JdbcSelectExecutorStandardImpl.resolveJdbcValues(JdbcSelectExecutorStandardImpl.java:422)
+	at org.hibernate.sql.exec.internal.JdbcSelectExecutorStandardImpl.resolveJdbcValuesSource(JdbcSelectExecutorStandardImpl.java:349)
+	at org.hibernate.sql.exec.internal.JdbcSelectExecutorStandardImpl.doExecuteQuery(JdbcSelectExecutorStandardImpl.java:143)
+	at org.hibernate.sql.exec.internal.JdbcSelectExecutorStandardImpl.executeQuery(JdbcSelectExecutorStandardImpl.java:100)
+	at org.hibernate.sql.exec.spi.JdbcSelectExecutor.executeQuery(JdbcSelectExecutor.java:63)
+	at org.hibernate.sql.exec.spi.JdbcSelectExecutor.list(JdbcSelectExecutor.java:137)
+	at org.hibernate.query.sqm.internal.ConcreteSqmSelectQueryPlan.lambda$new$1(ConcreteSqmSelectQueryPlan.java:134)
+	at org.hibernate.query.sqm.internal.ConcreteSqmSelectQueryPlan.withCacheableSqmInterpretation(ConcreteSqmSelectQueryPlan.java:463)
+	at org.hibernate.query.sqm.internal.ConcreteSqmSelectQueryPlan.performList(ConcreteSqmSelectQueryPlan.java:391)
+	at org.hibernate.query.sqm.internal.SqmQueryImpl.doList(SqmQueryImpl.java:374)
+	at org.hibernate.query.spi.AbstractSelectionQuery.list(AbstractSelectionQuery.java:153)
+	at org.hibernate.query.spi.AbstractSelectionQuery.getSingleResultOrNull(AbstractSelectionQuery.java:330)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution$SingleEntityExecution.doExecute(JpaQueryExecution.java:337)
+	at org.springframework.data.jpa.repository.query.JpaQueryExecution.execute(JpaQueryExecution.java:100)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.doExecute(AbstractJpaQuery.java:166)
+	at org.springframework.data.jpa.repository.query.AbstractJpaQuery.execute(AbstractJpaQuery.java:156)
+	at org.springframework.data.repository.core.support.RepositoryMethodInvoker.doInvoke(RepositoryMethodInvoker.java:169)
+	at org.springframework.data.repository.core.support.RepositoryMethodInvoker.invoke(RepositoryMethodInvoker.java:158)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.doInvoke(QueryExecutorMethodInterceptor.java:167)
+	at org.springframework.data.repository.core.support.QueryExecutorMethodInterceptor.invoke(QueryExecutorMethodInterceptor.java:146)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179)
+	at org.springframework.data.projection.DefaultMethodInvokingMethodInterceptor.invoke(DefaultMethodInvokingMethodInterceptor.java:69)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179)
+	at org.springframework.transaction.interceptor.TransactionInterceptor$1.proceedWithInvocation(TransactionInterceptor.java:133)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:371)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:130)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:135)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:137)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:179)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:222)
+	at jdk.proxy2/jdk.proxy2.$Proxy131.findByUsername(Unknown Source)
+	at com.ebac.modulo40.service.LoginService.validarCredenciales(LoginService.java:17)
+	at com.ebac.modulo40.controller.AdminController.login(AdminController.java:18)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:252)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:184)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:934)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:853)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:86)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:866)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1000)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:903)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:649)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:874)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:710)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:128)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:199)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:77)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:113)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:1272)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1801)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:946)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:480)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:57)
+	at java.base/java.lang.Thread.run(Thread.java:840)

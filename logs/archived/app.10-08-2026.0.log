@@ -1,0 +1,24 @@
+10-08-2026 20:59:03,175-06:00 [main] INFO  com.ebac.modulo40.DemoApplication - Starting DemoApplication using Java 17.0.20 with PID 14876 (C:\Users\Administrador\Pictures\IdeaProjects\Spring Boot\target\classes started by Administrador in C:\Users\Administrador\Pictures\IdeaProjects\Spring Boot)
+10-08-2026 20:59:03,182-06:00 [main] INFO  com.ebac.modulo40.DemoApplication - The following 1 profile is active: "dev"
+10-08-2026 20:59:07,281-06:00 [main] INFO  com.ebac.modulo40.DemoApplication - Started DemoApplication in 4.577 seconds (process running for 6.933)
+10-08-2026 20:59:33,694-06:00 [http-nio-8080-exec-1] INFO  c.e.m.controller.TelefonoController - Se ejecutó el proceso de regresar todos los teléfonos
+10-08-2026 20:59:46,247-06:00 [http-nio-8080-exec-3] INFO  c.e.m.controller.UsuarioController - Se ejecutó el proceso de regresar todos los usuarios
+10-08-2026 21:00:13,172-06:00 [http-nio-8080-exec-9] INFO  c.e.m.controller.UsuarioController - Se ejecutó el proceso de regresar todos los usuarios
+10-08-2026 21:01:15,010-06:00 [http-nio-8080-exec-7] INFO  c.e.m.controller.UsuarioController - Se ejecutó el proceso de regresar todos los usuarios
+10-08-2026 21:04:16,703-06:00 [http-nio-8080-exec-5] INFO  c.e.m.controller.UsuarioController - Se ejecutó el proceso de regresar todos los usuarios
+10-08-2026 21:08:27,364-06:00 [http-nio-8080-exec-3] INFO  c.e.m.controller.UsuarioController - Se ejecutó el proceso de regresar todos los usuarios
+10-08-2026 21:09:08,252-06:00 [http-nio-8080-exec-2] INFO  c.e.m.controller.UsuarioController - Se ejecutó el proceso de regresar todos los usuarios
+10-08-2026 21:09:18,291-06:00 [http-nio-8080-exec-7] INFO  c.e.m.controller.UsuarioController - Se ejecutó el proceso de regresar todos los usuarios
+10-08-2026 21:21:20,985-06:00 [http-nio-8080-exec-4] INFO  c.e.m.controller.UsuarioController - Se ejecutó el proceso de regresar todos los usuarios
+10-08-2026 21:22:10,406-06:00 [http-nio-8080-exec-5] INFO  c.e.m.controller.UsuarioController - Se ejecutó el proceso de regresar todos los usuarios
+10-08-2026 21:38:24,699-06:00 [http-nio-8080-exec-9] INFO  c.e.m.controller.UsuarioController - El usuario fue creado con id: 3 fue creado
+10-08-2026 21:38:46,693-06:00 [http-nio-8080-exec-6] INFO  c.e.m.controller.UsuarioController - Se ejecutó el proceso de regresar todos los usuarios
+10-08-2026 21:38:55,611-06:00 [http-nio-8080-exec-8] INFO  c.e.m.controller.UsuarioController - Se ejecutó el proceso de regresar todos los usuarios
+10-08-2026 21:39:59,376-06:00 [http-nio-8080-exec-4] INFO  c.e.m.controller.UsuarioController - Se ejecutó el proceso de regresar todos los usuarios
+10-08-2026 21:45:35,684-06:00 [http-nio-8080-exec-7] INFO  c.e.m.controller.UsuarioController - El usuario 1 fue actualizado
+10-08-2026 21:45:42,638-06:00 [http-nio-8080-exec-8] INFO  c.e.m.controller.UsuarioController - El usuario 1 fue actualizado
+10-08-2026 21:45:49,215-06:00 [http-nio-8080-exec-10] INFO  c.e.m.controller.UsuarioController - El usuario 1 fue actualizado
+10-08-2026 21:46:27,317-06:00 [http-nio-8080-exec-4] INFO  c.e.m.controller.UsuarioController - Se ejecutó el proceso de regresar todos los usuarios
+10-08-2026 21:48:55,173-06:00 [http-nio-8080-exec-9] INFO  c.e.m.controller.UsuarioController - El usuario 3 fue actualizado
+10-08-2026 21:49:08,658-06:00 [http-nio-8080-exec-6] INFO  c.e.m.controller.UsuarioController - Se ejecutó el proceso de regresar todos los usuarios
+10-08-2026 21:49:59,447-06:00 [http-nio-8080-exec-4] INFO  c.e.m.controller.UsuarioController - Proceso de eliminación ejecutado

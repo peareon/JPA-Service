@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configuration>
+    <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <Pattern>
+                %d{"dd-MM-yyyy HH:mm:ss,SSSXXX", "America/Mexico_City"} [%t] %-5level %logger{36} - %msg%n
+            </Pattern>
+        </encoder>
+    </appender>
+
+    <appender name="FILE-ROLLING" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>logs/ebacSpringBootApp.log</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <fileNamePattern>logs/archived/app.%d{dd-MM-yyyy}.%i.log</fileNamePattern>
+            <timeBasedFileNamingAndTriggeringPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
+                <maxFileSize>2MB</maxFileSize>
+            </timeBasedFileNamingAndTriggeringPolicy>
+            <totalSizeCap>10MB</totalSizeCap>
+            <maxHistory>5</maxHistory>
+        </rollingPolicy>
+        <encoder>
+            <Pattern>
+                %d{"dd-MM-yyyy HH:mm:ss,SSSXXX", "America/Mexico_City"} [%t] %-5level %logger{36} - %msg%n
+            </Pattern>
+        </encoder>
+    </appender>
+
+    <logger name="com.ebac.modulo40" level="info" additivity="false">
+        <appender-ref ref="FILE-ROLLING"></appender-ref>
+        <appender-ref ref="CONSOLE"></appender-ref>
+    </logger>
+
+    <root level="error">
+        <appender-ref ref="FILE-ROLLING"></appender-ref>
+        <appender-ref ref="CONSOLE"></appender-ref>
+    </root>
+
+</configuration>
